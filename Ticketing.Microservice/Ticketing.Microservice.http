@@ -1,0 +1,6 @@
+@Ticketing.Microservice_HostAddress = http://localhost:5143
+
+GET {{Ticketing.Microservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
